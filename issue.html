@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>issue one: emergence — naissance</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="issue-page">
+  <!-- Back link -->
+  <div style="padding: 2rem; max-width: 1200px; margin: 0 auto;">
+    <a href="index.html" class="back-link">home</a>
+  </div>
+
+  <!-- Issue Header -->
+  <header class="issue-header">
+    <p class="issue-number">issue one</p>
+    <h1 class="issue-name">emergence</h1>
+    <p class="issue-description">stories of beginnings, of becoming, of the tender violence of birth</p>
+  </header>
+
+  <!-- Stories Container -->
+  <div class="stories-container" id="stories-container">
+    <!-- Stories loaded dynamically via JavaScript -->
+  </div>
+
+  <!-- Story Reader Modal -->
+  <div class="story-reader" id="story-reader">
+    <button class="story-reader-close" onclick="closeStory()">close ×</button>
+    <div class="story-reader-inner">
+      <header class="story-reader-header">
+        <h1 class="story-reader-title" id="story-reader-title"></h1>
+        <p class="story-reader-author" id="story-reader-author"></p>
+      </header>
+      <div class="story-reader-content" id="story-reader-content"></div>
+    </div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="nav-bar" style="max-width: 900px; margin: 0 auto; padding: 0 2rem 4rem;">
+    <a href="about.html">about</a>
+    <a href="contributors.html">contributors</a>
+  </nav>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
