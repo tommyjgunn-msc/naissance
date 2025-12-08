@@ -4,88 +4,48 @@ author: Tejasvini Pudaruth
 genre: Fiction
 ---
 
-The heartbeat appeared on a Tuesday.
+Years ago, in the farthest corner of the occidental lands, there stood a village sure in its stance. Days and days had passed in a daze in that little village: all passing on, all so transient. And so, centuries of living turned into a tradition for the villagers of desolation as all that remained undying was the whoosh of the wind that never abided by the wills of any. A fresh breeze that had been, god sent for the washermen, a nuisance to the farmers. 
 
-Dr. Elena Voss noticed it first—a rhythmic blip on the seismograph at the Stanford monitoring station, too regular to be tectonic, too deep to be mechanical. Seventy-two beats per minute, exactly. Like a human heart, but coming from three miles beneath the earth's crust.
+The cracks of such a village’s temple and the holes in its roofs, inside and outside alike, stood as though never once fractured, despite the obvious. A mirror to the teachings and tales of the old man, the village’s chosen sage, whose rhymes had found refuge in the winds, that carried them through the temple and along the paths of the village, abandoned in mind, yet constant in view. 
 
-"It's an instrument error," her supervisor said, not looking up from his coffee. "Run diagnostics."
+And so, the old man, the sage chosen by the villagers , would stand outside the temple, under the torn canopies attached to the building. In front of him would sit all the young children of the village, from years 6 to 10. All eager for the stories he’d relay. Stories all,that would instil the traditions of livelihood and beliefs of the village. 
 
-She ran diagnostics. The blip continued.
+He would regale them with tales of “a crimson veil would sway in view, where the red was a whole, all new. A trail of blood, splattered in shrewd, when the cloth was all but green in truth. And then of the white brilliant blaze, a blest from within, a blessing to reach in and an honour to all; witness of loyalty that knew no end, despite power within such reach.”
 
-"It's interference from the new subway line," he said. "Check the frequency overlap."
+“But also of a host of villainous shelter, dare she who, the mother of all, shadows and spirits, that lay deep in the wild in those lands, unmelodious, dark in soul and dark almost”. 
 
-She checked. The frequencies didn't match.
+All were of intrigue, all invoked awe. All made him curious of the legends they spoke of. And so, tales of many echoed around the halls, creating a rhyme all on its own. 
 
-"It's—" he started.
+“And when the sun lowered into the ground, and the candles were lit up in fear, the ruby-draped nymph stepped into the light……..a steel of gold attached to her side.”
 
-"It's a heartbeat," Elena said. "Something down there is alive."
+“But then hell broke through when the aureate blade sliced the wind, it was all but a cue, of the arrival of the greenly adorned villainous, general of the western lands”. 
 
----
+“...and so was the glory of the blessed Princess, loyal to her sister the queen, and loyal to the truth she leads.”
 
-Within a month, monitoring stations around the world began picking up the signal. The same rhythm, the same depth, the same impossibility. Seventy-two beats per minute, synchronized across continents, as if the entire planet had developed a pulse.
+By the end of the years, all in the village knew the tales of the famed heroes of the west. The rise of the ruby-draped ‘star’ from Shen Xing, who had appeared in secrecy in search of the evil spirits that plagued the town and left in fame, alongside her partner-the black draped star. 
 
-The internet had theories. Most of them involved aliens. Some involved God. A few involved complicated schemes by various governments, though no one could explain what any government would gain from making the earth appear to have a heartbeat.
+The Bride in red, a bloomed fire goddess, who appeared in bridal ensemble, though sword in hand, at a merciless and undeserving execution , slaying all the perpetrators and restoring justice and fairness, forever after wearing a red gown that floated as though tamed flames. 
 
-The scientists had fewer theories and more questions. What could be that large? What could be that deep? What could beat with such perfect regularity, such mechanical precision, such—
+The blessed princess of the golden lineage, who was bestowed the golden sword of the late emperor, third in line to the throne yet first to the genuine aid of her oldest. Her sisterhood, to be framed in history forever.
 
-"Life," Elena said, at a conference in Geneva. "We're not asking the right question. The question isn't what's down there. The question is: has it always been down there, or did it just wake up?"
+But then also the stories of tyrants, such as the noble in green whose terror and deceit had many living in horror in the lands she belonged to.  A general who massacred lands, a strategist who won all ruthless wars and an ambassador whose suggestions were best taken. 
 
-The room went quiet.
+Yet worst of all was the witch who lived in the deep dark woods. Whose sound of flute ignited such fear that even darkness seeked refuge in the small desolate village of the west, for she lay nearer than many could have wished. Many speculated she was a fallen hero, or better then worse, a spirit at its highest power. 
 
-"And if it just woke up," she continued, "what woke it?"
+But all the man had ever relaid, old in his voice and old wherever else; There once was good, enveloped in Red,  one as Ruby, wielder of the steel of Gold. But there was also bad, enveloped in green, a curve to her lips, a cunning grin with an aureate blade as her signature arm. And then also bright within, Princess of Gold, bestowed upon the champion’s brand, the embodiment of light herself and the loyalty whose end could never be met. 
 
----
+And then of flames, draping one of holy nature, a goddess incarnate into the world of defiants. But beware of the flames of the witch whose lair lay deep within the unmelodious wilderness for its consumption reached even each soul. 
 
-Six months later, the beat changed.
+Puzzling as it was, his intrigued curiosity never ceased from wonder. A wonder that turned into rage for there seemed to be an error only he could find.
 
-Not faster—Elena checked the measurements three times—but *louder*. As if whatever was beating was rising, pushing toward the surface, pressing against the rock and mantle like a hand pressing against a window.
+And so Bowen stood up in a craze. The wind could no longer cool as heat overcame his senses.
 
-The earthquakes started in Indonesia. Then Chile. Then California.
+“How could you, how dare you, how does one wielder of a sacred blade be grandiose in such a stance, the other inferior in rights. How do you differentiate within the very golden blade that can only be one of its kind. How does a flame in one tale be disastrous in nature, while in another it is but a tamed holy creature? You speak of one legend only in butchered forms to make up stories more to perform. You are no storyteller, you know not even your own legends.”
 
-"It's not connected," the experts assured the press. "Seismic activity is independent of—"
+The man, wise in age and old in mind, narrowed his unwavering gaze at the imprudent child. A child of defiance had no seat at a temple as such. A young mind wavering was demonic in nature, and so an outcaste became the child, in a village he belonged to, yet. 
 
-But Elena knew. She could feel it in her own chest, a sympathetic rhythm, her heart syncing with the pulse beneath her feet. She wasn't the only one. Reports came in from around the world: people waking at night with their hearts racing, children claiming they could hear the earth "humming," pregnant women swearing their babies kicked in time with the seismograph readings.
+So were the events of his youth that Bowen remembered in the halls of the Host of Shadows, his expression carrying the same defiance that he harboured all through his life, from childhood to adulthood and onwards, as he stared at the figure sitting nonchalantly with a smirk at her desk as she spoke to the men under her wing who had vowed service to her. 
 
-Something was being born.
+Her name unknown to many, she was truly but a mystery. Mother of shadows she was as much as the mother of beasts for she had been the heir of a woodland and bound to it by blood. A princess she had been at the best serving of her queen, foes she had made for the very loyalty she held. The fire she sparked for protection had turned to be the very reason of her being forsaken. But then again since when did an Archon care for the wavering faiths of the ignorants.
 
-Something was emerging.
-
----
-
-The day it surfaced, Elena was standing on a beach in Oregon, watching the horizon. She had stopped going to the lab. There was nothing to monitor anymore—the pulse was everywhere, obvious, undeniable. You could feel it through the soles of your shoes. You could hear it in the silence between waves.
-
-The ocean pulled back. Not like a tsunami—slower, gentler, as if it was making room.
-
-And then the earth opened.
-
-Elena expected something monstrous. Something alien, scaled and tentacled and terrible. Instead, what emerged was light—pure and white and pulsing, seventy-two beats per minute, like a second sun pushing through soil.
-
-She watched it rise.
-
-She watched it breathe.
-
-She watched it look at the world it had been buried beneath for longer than humanity had existed, taking in the cities and the oceans and the small, frightened creatures staring up at it from every coast.
-
-And then it smiled.
-
-At least, that's what it felt like—a warmth spreading across the earth, a sensation of being *seen*, of being *known*, of being, somehow, *loved*.
-
-Elena's heart slowed. Settled. Synced.
-
-Seventy-two beats per minute.
-
-Just like everyone else.
-
----
-
-Later, the philosophers would argue about what it meant. Was it a god? An organism? A metaphor? Some said it was the earth itself, finally conscious after billions of years of dreaming. Others said it was something older, something that had been waiting beneath the crust since before there were cells, before there were stars, before there was anything to wait *for*.
-
-Elena didn't care about the theories.
-
-She cared about the feeling—that moment on the beach when the light emerged and she understood, with absolute clarity, that nothing was ending.
-
-Something was just beginning.
-
-Something was being born.
-
-And she was there, pulse synced and eyes open, to witness the first breath.
+She was all that the tales were and were not. Her stories felt short to her glory for they never captured her whole essence. Men and women, children alike, had all been prone to the making of tales of creatures unknown, and among most and many, those creatures could be closer to, than most.
