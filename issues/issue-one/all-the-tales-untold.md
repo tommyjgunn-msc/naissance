@@ -1,7 +1,7 @@
 ---
-title: pulse
-author: ben kaufman
-genre: fiction
+title: All The Tales Untold
+author: Tejasvini Pudaruth
+genre: Fiction
 ---
 
 The heartbeat appeared on a Tuesday.
