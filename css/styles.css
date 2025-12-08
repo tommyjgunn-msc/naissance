@@ -114,6 +114,16 @@ a:hover {
   color: var(--accent-rust);
 }
 
+.landing-tagline {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: lowercase;
+  color: var(--text-mid);
+  margin-bottom: 3rem;
+}
+
 .landing-nav {
   display: flex;
   gap: 3rem;
