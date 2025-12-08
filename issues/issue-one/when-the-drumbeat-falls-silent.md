@@ -1,7 +1,7 @@
 ---
-title: what the river remembers
-author: mei-ling chang
-genre: creative nonfiction
+title: When The Drumbeat Falls Silent
+author: Onchuru Victor
+genre: Poetry
 ---
 
 My grandmother never taught me to swim. This is not unusual—women of her generation, in her village, didn't learn. The river was for washing clothes, for rice paddies, for the men who fished. Water was a tool, not a pleasure. A necessity, not a freedom.
