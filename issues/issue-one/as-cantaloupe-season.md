@@ -1,7 +1,7 @@
 ---
-title: the weight of wings
-author: amara obi
-genre: fiction
+title: as cantaloupe season (an excerpt from “papau new guinea”)
+author: Michelle Ndumi Musilli
+genre: Fiction
 ---
 
 The morning my grandmother died, I found a bird in my closet. Not dead—alive, impossibly alive, its small black eyes watching me as I reached for my work blouse. It didn't move. Didn't startle. Just sat there on my shoe rack, between the heels I never wore and the sneakers I wore too often, as if it had always lived there.
