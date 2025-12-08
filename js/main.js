@@ -9,15 +9,14 @@
 // configuration for issues
 const ISSUES = {
   'issue-one': {
-    name: 'emergence',
-    description: 'stories of beginnings, of becoming, of the tender violence of birth',
+    name: 'as it was in the beginning',
+    description: 'stories and poetry about beginnings and endings',
     stories: [
-      'the-weight-of-wings.md',
-      'first-light.md',
-      'what-the-river-remembers.md',
-      'small-gods.md',
-      'the-naming.md',
-      'pulse.md'
+      'soured-lemonade.md',
+      'all-that-went-quiet.md',
+      'as-cantaloupe-season.md',
+      'when-the-drumbeat-falls-silent.md',
+      'all-the-tales-untold.md'
     ]
   }
 };
