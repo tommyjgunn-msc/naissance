@@ -3,7 +3,7 @@
   punk zine aesthetic - raw, handmade, web 2.0
 */
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:ital,wght@0,400;0,500;1,400&family=Instrument+Serif:ital@0;1&family=Montserrat:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:ital,wght@0,400;0,500;1,400&family=Instrument+Serif:ital@0;1&family=Montserrat:wght@300;400;500&family=Poppins:wght@700;800;900&display=swap');
 
 :root {
   --bg-paper: #f5f3ed;
@@ -73,54 +73,52 @@ a:hover {
   justify-content: center;
   align-items: center;
   padding: 2rem;
-  background-color: var(--bg-off);
+  background-color: #ffffff;
   position: relative;
 }
 
-.landing::before {
-  content: '';
+.landing-logo {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: 
-    linear-gradient(90deg, transparent 98%, var(--border-light) 98%),
-    linear-gradient(0deg, transparent 98%, var(--border-light) 98%);
-  background-size: 80px 80px;
-  opacity: 0.3;
-  pointer-events: none;
+  top: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: auto;
+  opacity: 0.15;
 }
 
 .landing-title {
-  font-family: var(--font-display);
-  font-size: clamp(3rem, 10vw, 6rem);
-  font-weight: 400;
-  font-style: italic;
+  font-family: 'Poppins', sans-serif;
+  font-size: clamp(3.5rem, 12vw, 7rem);
+  font-weight: 800;
   letter-spacing: -0.02em;
   text-transform: lowercase;
-  margin-bottom: 3rem;
-  color: var(--text-black);
-  position: relative;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+  display: flex;
+  align-items: baseline;
 }
 
-.landing-title::after {
-  content: '·';
-  position: absolute;
-  right: -0.5em;
-  top: 50%;
-  transform: translateY(-50%);
-  font-style: normal;
-  color: var(--accent-rust);
+.landing-title .nai {
+  color: #f5b923;
+}
+
+.landing-title .ssance {
+  color: #e8524a;
+}
+
+.landing-title .exclaim {
+  color: #e8524a;
+  margin-left: 0.05em;
 }
 
 .landing-tagline {
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.7rem;
-  font-weight: 400;
-  letter-spacing: 0.15em;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
   text-transform: lowercase;
-  color: var(--text-mid);
+  color: #1a365d;
   margin-bottom: 3rem;
 }
 
@@ -137,6 +135,7 @@ a:hover {
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--text-black);
   text-decoration: none;
+  color: var(--text-dark);
 }
 
 .landing-nav a:hover {
@@ -626,7 +625,11 @@ a:hover {
   }
   
   .landing-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
+  }
+  
+  .landing-logo {
+    width: 40px;
   }
   
   .landing-nav {
