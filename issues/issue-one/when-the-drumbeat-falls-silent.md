@@ -27,8 +27,6 @@ Ignorance has been our long, tired song.
 Our coffee and tea processed in Washington,
 Producing tons, receiving a shilling.
 We painted beggars with crippled minds.
-
-
 Unable to stand on our own.
 
 Many a mind blooms in Africa
@@ -37,10 +35,10 @@ Inferiority gnaws on our heads
 A better man must speak with an accent
 In pursuit of greener pastures
 Cows are we who graze and breed!
+
 If only our stomachs were starved,
 And our pockets too shallow to be bribed,
 If integrity and courage held sway,
-
 Leaders would rise to light our way.
 And when the drumbeats fall silent,
 A voice will roar through the dark:
