@@ -83,7 +83,7 @@ Each word landed like a commandment carved into soft clay.
 
 I watched as the house grew louder with babies, with crying, with demands. More mouths. More rules. And every new rule came with a new silence.  At first, they only told him to “be mature.”  Then, they told him to stop crying.  Then, they stopped telling him anything at all.
 
-He wet the bed once, just once, and his father’s belt struck his back with sharp, stinging lashes. His mother watched, lips pursed, he eyes avoiding his, her gaze sealed shut. 
+He wet the bed once, just once, and his father’s belt struck his back with sharp, stinging lashes. His mother watched, lips pursed, her eyes avoiding his, her gaze sealed shut. 
 
 On his tenth birthday, there was no party. His mother handed him a stack of his brother’s dirty diapers to take out. “You’re a big boy now,” she said, her smile not quite reaching her eyes. From the living room, he heard the squeals of his younger siblings playing. He stood in the hallway, perfectly still, holding the reeking garbage. He focused on making no sound, casting no shadow, until his own family walked past him as if he were just a piece of furniture. 
 
