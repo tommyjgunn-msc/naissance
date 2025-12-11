@@ -18,12 +18,11 @@ naissance/
 │   └── contributors/   # contributor photos (add as needed)
 └── issues/
     └── issue-one/      # markdown files for issue one stories
-        ├── the-weight-of-wings.md
-        ├── first-light.md
-        ├── what-the-river-remembers.md
-        ├── small-gods.md
-        ├── the-naming.md
-        └── pulse.md
+        ├── as cantaloupe season.md
+        ├── all went quiet.md
+        ├── all the tales untold.md
+        ├── when the drumbeat falls silent.md
+        ├── soured lemonade.md
 ```
 
 ## adding a new story
